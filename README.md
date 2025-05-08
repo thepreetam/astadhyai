@@ -1,6 +1,6 @@
 # **The Ripple Effect of Sanskrit-Powered AI: <br> A Paradigm Shift in Artificial Intelligence**
 
-## **Abstract (Extended)**  
+## **Abstract **  
 The proposed hybrid symbolic-neural framework for Sanskrit computing—rooted in the ancient formal grammar of *vyākaraṇa* as systematized by Pāṇini—represents more than a technical innovation; it embodies a philosophical renaissance in artificial intelligence. By demonstrating that a 2,500-year-old grammatical system can outperform modern OCR and neural pipelines in handling morphologically complex languages, this approach has the potential to:
 
 1. **Reorient AI toward hybrid systems**, reviving symbolic methods not just for their interpretability but also for their precision and efficiency.
