@@ -302,11 +302,11 @@ Each layer governed by explicit *sutras*, enabling traceable derivation.
 
 ## **References**
 
-1. *Reviving Vyākaraṇa in the Digital Age* (2024)
-2. Bender et al. (2021), *On the Dangers of Stochastic Parrots*
-3. Joshi (2023), *Computational Pāṇinian Grammar*
-4. Chomsky (1956), *Three Models for the Description of Language*
-5. Mohanty & Mishra (2022), *Formal Grammars in Ancient India*
+1. *Reviving Vyākaraṇa in the Digital Age* (2024) [?]
+2. Bender et al. (2021), *On the Dangers of Stochastic Parrots* [https://dl.acm.org/doi/10.1145/3442188.3445922]
+3. Mishra (2019), *Computational Pāṇinian Grammar* [https://library.oapen.org/bitstream/id/f1061a2a-4e0e-46c2-98c7-b4d5ecc922f2/294-68-85680-3-10-20190719.pdf]
+4. Chomsky (1956), *Three Models for the Description of Language* [https://chomsky.info/wp-content/uploads/195609-.pdf]
+5. Mohanty & Mishra (2022), *Formal Grammars in Ancient India* [?]
 
 ---
 
